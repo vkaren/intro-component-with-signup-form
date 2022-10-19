@@ -12,6 +12,7 @@ body {
 body {
   display: grid;
   grid-template-rows: 90% 10%;
+  grid-gap: 3em;
   align-content: center;
   background: hsl(0, 100%, 74%) url(./images/bg-intro-desktop.png);
   color: white;
